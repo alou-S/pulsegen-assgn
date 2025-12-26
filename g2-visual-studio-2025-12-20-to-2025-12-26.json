@@ -1,0 +1,132 @@
+[
+    {
+        "title": "\"Feature-Rich and User-Friendly: Visual Studio Boosts Productivity\"",
+        "rating": 5.0,
+        "reviewer_name": "Aditi J.",
+        "reviewer_role": "Associate Product Engineer",
+        "business_size": "Small-Business (50 or fewer emp.)",
+        "date": "2025-12-23",
+        "review": {
+            "What do you like best about Visual Studio?": "Visual Studio is very user-friendly and packed with features. What makes it stand out is how it helps reduce development time while also enhancing code quality.",
+            "What do you dislike about Visual Studio?": "There isn't anything I dislike about Visual Studio.",
+            "What problems is Visual Studio solving and how is that benefiting you?": "Visual Studio streamlines the development process by bringing essential tools together, enhancing code visibility, and minimizing the time spent debugging. As a result, I experience improved code quality, quicker delivery, and encounter fewer issues in production."
+        }
+    },
+    {
+        "title": "\"Powerful IDE with Manageable Set-Up Complexity\"",
+        "rating": 4.0,
+        "reviewer_name": "Daniel L.",
+        "reviewer_role": "Technical Director",
+        "business_size": "Mid-Market (51-1000 emp.)",
+        "date": "2025-12-22",
+        "review": {
+            "What do you like best about Visual Studio?": "I find Visual Studio to be a powerful IDE that allows me to run demos of my code as I write them. It really helps with coding by vibing with the add-ins. It's super easy for me to publish applications once I've finished writing, letting me move them to a live environment without hassle. I also like how it helps me keep track of everything with Git and ensures my repository is always updated with version control.",
+            "What do you dislike about Visual Studio?": "It takes a bit long to load, which is a bit annoying. Some of the setup takes a little while, so it's not really out-of-the-box; you have to spend a bit of time setting up your environment even though it's very good with some things.",
+            "What problems is Visual Studio solving and how is that benefiting you?": "Visual Studio is a powerful IDE that lets me run demos of my code as I write. It helps me track code with add-ins and Git repositories, and makes publishing applications easy."
+        }
+    },
+    {
+        "title": "\"Reliable, All-in-One Solution for Efficient Development\"",
+        "rating": 4.0,
+        "reviewer_name": "Antonio G.",
+        "reviewer_role": "SQL Server, Power BI, Web, SEO Specialist",
+        "business_size": "Small-Business (50 or fewer emp.)",
+        "date": "2025-12-22",
+        "review": {
+            "What do you like best about Visual Studio?": "I regularly use Visual Studio in my job, and it’s one of the most reliable tools in my daily workflow. It gives me everything I need in one place: coding, debugging, testing, and project management. The debugger is especially strong and helps me find problems quickly without wasting time.",
+            "What do you dislike about Visual Studio?": "What I dislike about Visual Studio is that it can feel quite heavy, especially on slower machines or large solutions. Startup time and indexing can be slow, and sometimes it uses a lot of memory even for simple tasks.",
+            "What problems is Visual Studio solving and how is that benefiting you?": "Visual Studio solves the problem of managing complex development work in one place. It combines coding, debugging, testing, and version control into a single environment, so I don’t need to jump between many tools."
+        }
+    },
+    {
+        "title": "\"Versatile and Efficient with Some Performance Drawbacks\"",
+        "rating": 4.0,
+        "reviewer_name": "Harvey E.",
+        "reviewer_role": null,
+        "business_size": null,
+        "date": "2025-12-21",
+        "review": {
+            "What do you like best about Visual Studio?": "I use Visual Studio to write, build, debug, and test software applications. I love how everything is in one place and that the smart code suggestions, or IntelliSense, save time. The debugger is great for finding errors easily, and I appreciate the wide range of extensions that let me customize it to my needs. It feels powerful yet easy to use. The initial setup was fairly easy because the installer guides you to choose only the workloads you need, making it straightforward even for beginners.",
+            "What do you dislike about Visual Studio?": "Visual Studio can feel heavy and slow at times, especially on low-spec systems. It uses a lot of memory, takes time to start, and the interface can feel cluttered for simple tasks. Updates can also be large and occasionally cause minor issues.",
+            "What problems is Visual Studio solving and how is that benefiting you?": "I use Visual Studio to write, build, debug, and test applications. It solves slow coding, hard-to-find bugs, and poor project organization with smart code suggestions, clear error messages, and powerful debugging tools. Everything is in one place, making development faster, cleaner, and less stressful."
+        }
+    },
+    {
+        "title": "\"The Developer’s Cockpit\"",
+        "rating": 4.5,
+        "reviewer_name": "Ankit R.",
+        "reviewer_role": "Quality Engineer",
+        "business_size": "Small-Business (50 or fewer emp.)",
+        "date": "2025-12-20",
+        "review": {
+            "What do you like best about Visual Studio?": "The debugger in Visual Studio is arguably its crown jewel. Unlike many editors where you have to piece together debugging tools, Visual Studio provides a deep, integrated experience.",
+            "What do you dislike about Visual Studio?": "It is primarily tied to a monthly or annual subscription, which can be a tough sell for freelancers or small startups when high-quality alternatives like VS Code are free.",
+            "What problems is Visual Studio solving and how is that benefiting you?": "A developer might need separate tools for writing code, debugging, testing, version control, database management, and cloud deployment. Visual Studio integrates all of these into a single, cohesive environment."
+        }
+    },
+    {
+        "title": "\"Feature-Rich and User-Friendly: Visual Studio Boosts Productivity\"",
+        "rating": 5.0,
+        "reviewer_name": "Aditi J.",
+        "reviewer_role": "Associate Product Engineer",
+        "business_size": "Small-Business (50 or fewer emp.)",
+        "date": "2025-12-23",
+        "review": {
+            "What do you like best about Visual Studio?": "Visual Studio is very user-friendly and packed with features. What makes it stand out is how it helps reduce development time while also enhancing code quality.",
+            "What do you dislike about Visual Studio?": "There isn't anything I dislike about Visual Studio.",
+            "What problems is Visual Studio solving and how is that benefiting you?": "Visual Studio streamlines the development process by bringing essential tools together, enhancing code visibility, and minimizing the time spent debugging. As a result, I experience improved code quality, quicker delivery, and encounter fewer issues in production."
+        }
+    },
+    {
+        "title": "\"Powerful IDE with Manageable Set-Up Complexity\"",
+        "rating": 4.0,
+        "reviewer_name": "Daniel L.",
+        "reviewer_role": "Technical Director",
+        "business_size": "Mid-Market (51-1000 emp.)",
+        "date": "2025-12-22",
+        "review": {
+            "What do you like best about Visual Studio?": "I find Visual Studio to be a powerful IDE that allows me to run demos of my code as I write them. It really helps with coding by vibing with the add-ins. It's super easy for me to publish applications once I've finished writing, letting me move them to a live environment without hassle. I also like how it helps me keep track of everything with Git and ensures my repository is always updated with version control.",
+            "What do you dislike about Visual Studio?": "It takes a bit long to load, which is a bit annoying. Some of the setup takes a little while, so it's not really out-of-the-box; you have to spend a bit of time setting up your environment even though it's very good with some things.",
+            "What problems is Visual Studio solving and how is that benefiting you?": "Visual Studio is a powerful IDE that lets me run demos of my code as I write. It helps me track code with add-ins and Git repositories, and makes publishing applications easy."
+        }
+    },
+    {
+        "title": "\"Reliable, All-in-One Solution for Efficient Development\"",
+        "rating": 4.0,
+        "reviewer_name": "Antonio G.",
+        "reviewer_role": "SQL Server, Power BI, Web, SEO Specialist",
+        "business_size": "Small-Business (50 or fewer emp.)",
+        "date": "2025-12-22",
+        "review": {
+            "What do you like best about Visual Studio?": "I regularly use Visual Studio in my job, and it’s one of the most reliable tools in my daily workflow. It gives me everything I need in one place: coding, debugging, testing, and project management. The debugger is especially strong and helps me find problems quickly without wasting time.",
+            "What do you dislike about Visual Studio?": "What I dislike about Visual Studio is that it can feel quite heavy, especially on slower machines or large solutions. Startup time and indexing can be slow, and sometimes it uses a lot of memory even for simple tasks.",
+            "What problems is Visual Studio solving and how is that benefiting you?": "Visual Studio solves the problem of managing complex development work in one place. It combines coding, debugging, testing, and version control into a single environment, so I don’t need to jump between many tools."
+        }
+    },
+    {
+        "title": "\"Versatile and Efficient with Some Performance Drawbacks\"",
+        "rating": 4.0,
+        "reviewer_name": "Harvey E.",
+        "reviewer_role": null,
+        "business_size": null,
+        "date": "2025-12-21",
+        "review": {
+            "What do you like best about Visual Studio?": "I use Visual Studio to write, build, debug, and test software applications. I love how everything is in one place and that the smart code suggestions, or IntelliSense, save time. The debugger is great for finding errors easily, and I appreciate the wide range of extensions that let me customize it to my needs. It feels powerful yet easy to use. The initial setup was fairly easy because the installer guides you to choose only the workloads you need, making it straightforward even for beginners.",
+            "What do you dislike about Visual Studio?": "Visual Studio can feel heavy and slow at times, especially on low-spec systems. It uses a lot of memory, takes time to start, and the interface can feel cluttered for simple tasks. Updates can also be large and occasionally cause minor issues.",
+            "What problems is Visual Studio solving and how is that benefiting you?": "I use Visual Studio to write, build, debug, and test applications. It solves slow coding, hard-to-find bugs, and poor project organization with smart code suggestions, clear error messages, and powerful debugging tools. Everything is in one place, making development faster, cleaner, and less stressful."
+        }
+    },
+    {
+        "title": "\"The Developer’s Cockpit\"",
+        "rating": 4.5,
+        "reviewer_name": "Ankit R.",
+        "reviewer_role": "Quality Engineer",
+        "business_size": "Small-Business (50 or fewer emp.)",
+        "date": "2025-12-20",
+        "review": {
+            "What do you like best about Visual Studio?": "The debugger in Visual Studio is arguably its crown jewel. Unlike many editors where you have to piece together debugging tools, Visual Studio provides a deep, integrated experience.",
+            "What do you dislike about Visual Studio?": "It is primarily tied to a monthly or annual subscription, which can be a tough sell for freelancers or small startups when high-quality alternatives like VS Code are free.",
+            "What problems is Visual Studio solving and how is that benefiting you?": "A developer might need separate tools for writing code, debugging, testing, version control, database management, and cloud deployment. Visual Studio integrates all of these into a single, cohesive environment."
+        }
+    }
+]
